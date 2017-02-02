@@ -1,0 +1,6 @@
+rng = input("enter the range")
+for i in rng
+	list = []
+	x = input("enter the number")
+	list1 = list.append(x)
+print list1
